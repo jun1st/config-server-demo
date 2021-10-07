@@ -3,4 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jun1st/configs
+          uri: https://github.com/jun1st/config-server-demo
+          default-label: main
